@@ -1,4 +1,4 @@
-Here is a concise description of the project:
+
 
 Project Title: Multimodal Fashion & Context Retrieval System
 
